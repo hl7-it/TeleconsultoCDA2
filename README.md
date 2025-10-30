@@ -1,6 +1,6 @@
 # TeleconsultoCDA2
 
-[IG HL7 CDA2 Teleconsulto](https://hl7itig.art-decor.pub/hl7itig-html-20251027T172142/tmp-2.16.840.1.113883.2.9.10.1.16.2.1-2025-05-16T122549.html) 
+[IG HL7 CDA2 Teleconsulto](https://hl7itig.art-decor.pub/hl7itig-html-20251030T104952/tmp-2.16.840.1.113883.2.9.10.1.16.2.1-2025-05-16T122549.html) 
 
 # Ballot: Guida alla votazione
 La procedura di ballot segue lo standard Jira Balloting di HL7 international CDA2, che prevede l'utilizzo delle Issue GitHub (le Issue aperte prima dell'inizio del ballot sono segnalate come "Pre-Ballot Close"). Tale procedura è utile a segnalare commenti correlati alla votazione, che ufficialmente deve avvenire nell'area [Discussion di GitHub](https://github.com/hl7-it/TeleconsultoCDA2/discussions/1.html)
